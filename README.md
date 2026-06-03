@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> This repository is archived and read-only. The `ship-milestone` skill is now maintained
+> as part of the **[Agent Playbook Suite](https://github.com/ArtRichards/agent-playbook-suite)**,
+> under [`plugins/agent-playbook-suite/skills/ship-milestone/`](https://github.com/ArtRichards/agent-playbook-suite/tree/main/plugins/agent-playbook-suite/skills/ship-milestone).
+> Install it via the suite plugin marketplace rather than cloning this repo. The
+> content below is historical and predates the risk-aware agentic-TDD upgrade.
+
 # ship-milestone
 
 A Claude Code skill that autonomously runs a milestone through all ten TDD phases to completion.
